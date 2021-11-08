@@ -9,7 +9,7 @@ edition = "2018"
 async-std = "1.10.0"
 futures = "0.3.17"
 quote = "1.0"
-stepbystep-export = { version = "0.1.0", path = "../stepbystep-export"}
+stepbystep = { version = "0.1.0", path = "../stepbystep"}
 
 [lib]
 crate-type = ["staticlib"]
